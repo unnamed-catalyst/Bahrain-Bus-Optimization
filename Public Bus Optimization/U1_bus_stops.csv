@@ -1,0 +1,197 @@
+from_node,to_node,from_lat_long,to_lat_long,distance,travel_time,distance_text,duration_text,city_id,from_lat,from_long
+Isa Town Terminal 2,Isa Town Terminal 2,"26.17375,  50.54735","26.17375, 50.54735",0,0,,,0,26.17375,50.54735
+Isa Town Terminal 2,Sh. Salman Highway-11 Riffa,"26.17375, 50.54735","26.129433,  50.537533",0,0,,,0,26.17375,50.54735
+Isa Town Terminal 2,Sh. Salman Highway-13,"26.17375,  50.54735","26.161899,  50.540713",0,0,,,0,26.17375,50.54735
+Isa Town Terminal 2,University of Bahrain - Sakhir 2,"26.17375,  50.54735","26.048766, 50.512333",0,0,,,0,26.17375,50.54735
+Isa Town Terminal 2,Educational Area - 2 Isa Town,"26.17375, 50.54735","26.162067, 50.549217",0,0,,,0,26.17375,50.54735
+Isa Town Terminal 2,Bahrain University Main Gate/2 Zallaq,"26.17375, 50.54735","26.056805, 50.509186",0,0,,,0,26.17375,50.54735
+Isa Town Terminal 2,Isa Town Gate-2 Isa Town,"26.17375, 50.54735","26.169636, 50.544911",0,0,,,0,26.17375,50.54735
+Isa Town Terminal 2,Safreh Housing Riffa,"26.17375, 50.54735","26.106908, 50.539928",0,0,,,0,26.17375,50.54735
+Isa Town Terminal 2,Bahrain University Main Gate 1,"26.17375, 50.54735","26.056796, 50.508591",0,0,,,0,26.17375,50.54735
+Isa Town Terminal 2,Isa Town PID Stop,"26.17375, 50.54735","26.173534, 50.547817",0,0,,,0,26.17375,50.54735
+Isa Town Terminal 2,16 December HWY-1 Isa Town,"26.17375, 50.54735","26.157364, 50.540535",0,0,,,0,26.17375,50.54735
+Isa Town Terminal 2,Sh. Abdulla School-1 Isa Town,"26.17375, 50.54735","26.160967, 50.54515",0,0,,,0,26.17375,50.54735
+Isa Town Terminal 2,Bahrain University Isa Town,"26.17375, 50.54735","26.163998, 50.546377",0,0,,,0,26.17375,50.54735
+Isa Town Terminal 2,Sh. Salman Highway-10 Jary AlSheikh Riffa,"26.17375, 50.54735","26.1392, 50.5389",0,0,,,0,26.17375,50.54735
+Sh. Salman Highway-11 Riffa,Isa Town Terminal 2,"26.129433, 50.537533","26.17375, 50.54735",0,0,,,1,26.129433,50.537533
+Sh. Salman Highway-11 Riffa,Sh. Salman Highway-11 Riffa,"26.129433, 50.537533","26.129433,  50.537533",0,0,,,1,26.129433,50.537533
+Sh. Salman Highway-11 Riffa,Sh. Salman Highway-13,"26.129433, 50.537533","26.161899,  50.540713",0,0,,,1,26.129433,50.537533
+Sh. Salman Highway-11 Riffa,University of Bahrain - Sakhir 2,"26.129433, 50.537533","26.048766, 50.512333",0,0,,,1,26.129433,50.537533
+Sh. Salman Highway-11 Riffa,Educational Area - 2 Isa Town,"26.129433, 50.537533","26.162067, 50.549217",0,0,,,1,26.129433,50.537533
+Sh. Salman Highway-11 Riffa,Bahrain University Main Gate/2 Zallaq,"26.129433, 50.537533","26.056805, 50.509186",0,0,,,1,26.129433,50.537533
+Sh. Salman Highway-11 Riffa,Isa Town Gate-2 Isa Town,"26.129433, 50.537533","26.169636, 50.544911",0,0,,,1,26.129433,50.537533
+Sh. Salman Highway-11 Riffa,Safreh Housing Riffa,"26.129433, 50.537533","26.106908, 50.539928",0,0,,,1,26.129433,50.537533
+Sh. Salman Highway-11 Riffa,Bahrain University Main Gate 1,"26.129433, 50.537533","26.056796, 50.508591",0,0,,,1,26.129433,50.537533
+Sh. Salman Highway-11 Riffa,Isa Town PID Stop,"26.129433, 50.537533","26.173534, 50.547817",0,0,,,1,26.129433,50.537533
+Sh. Salman Highway-11 Riffa,16 December HWY-1 Isa Town,"26.129433, 50.537533","26.157364, 50.540535",0,0,,,1,26.129433,50.537533
+Sh. Salman Highway-11 Riffa,Sh. Abdulla School-1 Isa Town,"26.129433, 50.537533","26.160967, 50.54515",0,0,,,1,26.129433,50.537533
+Sh. Salman Highway-11 Riffa,Bahrain University Isa Town,"26.129433, 50.537533","26.163998, 50.546377",0,0,,,1,26.129433,50.537533
+Sh. Salman Highway-11 Riffa,Sh. Salman Highway-10 Jary AlSheikh Riffa,"26.129433, 50.537533","26.1392, 50.5389",0,0,,,1,26.129433,50.537533
+Sh. Salman Highway-13,Isa Town Terminal 2,"26.161899, 50.540713","26.17375, 50.54735",0,0,,,2,26.161899,50.540713
+Sh. Salman Highway-13,Sh. Salman Highway-11 Riffa,"26.161899, 50.540713","26.129433,  50.537533",0,0,,,2,26.161899,50.540713
+Sh. Salman Highway-13,Sh. Salman Highway-13,"26.161899, 50.540713","26.161899,  50.540713",0,0,,,2,26.161899,50.540713
+Sh. Salman Highway-13,University of Bahrain - Sakhir 2,"26.161899, 50.540713","26.048766, 50.512333",0,0,,,2,26.161899,50.540713
+Sh. Salman Highway-13,Educational Area - 2 Isa Town,"26.161899, 50.540713","26.162067, 50.549217",0,0,,,2,26.161899,50.540713
+Sh. Salman Highway-13,Bahrain University Main Gate/2 Zallaq,"26.161899, 50.540713","26.056805, 50.509186",0,0,,,2,26.161899,50.540713
+Sh. Salman Highway-13,Isa Town Gate-2 Isa Town,"26.161899, 50.540713","26.169636, 50.544911",0,0,,,2,26.161899,50.540713
+Sh. Salman Highway-13,Safreh Housing Riffa,"26.161899, 50.540713","26.106908, 50.539928",0,0,,,2,26.161899,50.540713
+Sh. Salman Highway-13,Bahrain University Main Gate 1,"26.161899, 50.540713","26.056796, 50.508591",0,0,,,2,26.161899,50.540713
+Sh. Salman Highway-13,Isa Town PID Stop,"26.161899, 50.540713","26.173534, 50.547817",0,0,,,2,26.161899,50.540713
+Sh. Salman Highway-13,16 December HWY-1 Isa Town,"26.161899, 50.540713","26.157364, 50.540535",0,0,,,2,26.161899,50.540713
+Sh. Salman Highway-13,Sh. Abdulla School-1 Isa Town,"26.161899, 50.540713","26.160967, 50.54515",0,0,,,2,26.161899,50.540713
+Sh. Salman Highway-13,Bahrain University Isa Town,"26.161899, 50.540713","26.163998, 50.546377",0,0,,,2,26.161899,50.540713
+Sh. Salman Highway-13,Sh. Salman Highway-10 Jary AlSheikh Riffa,"26.161899, 50.540713","26.1392, 50.5389",0,0,,,2,26.161899,50.540713
+University of Bahrain - Sakhir 2,Isa Town Terminal 2,"26.048766, 50.512333","26.17375, 50.54735",0,0,,,3,26.048766,50.512333
+University of Bahrain - Sakhir 2,Sh. Salman Highway-11 Riffa,"26.048766, 50.512333","26.129433,  50.537533",0,0,,,3,26.048766,50.512333
+University of Bahrain - Sakhir 2,Sh. Salman Highway-13,"26.048766, 50.512333","26.161899,  50.540713",0,0,,,3,26.048766,50.512333
+University of Bahrain - Sakhir 2,University of Bahrain - Sakhir 2,"26.048766, 50.512333","26.048766, 50.512333",0,0,,,3,26.048766,50.512333
+University of Bahrain - Sakhir 2,Educational Area - 2 Isa Town,"26.048766, 50.512333","26.162067, 50.549217",0,0,,,3,26.048766,50.512333
+University of Bahrain - Sakhir 2,Bahrain University Main Gate/2 Zallaq,"26.048766, 50.512333","26.056805, 50.509186",0,0,,,3,26.048766,50.512333
+University of Bahrain - Sakhir 2,Isa Town Gate-2 Isa Town,"26.048766, 50.512333","26.169636, 50.544911",0,0,,,3,26.048766,50.512333
+University of Bahrain - Sakhir 2,Safreh Housing Riffa,"26.048766, 50.512333","26.106908, 50.539928",0,0,,,3,26.048766,50.512333
+University of Bahrain - Sakhir 2,Bahrain University Main Gate 1,"26.048766, 50.512333","26.056796, 50.508591",0,0,,,3,26.048766,50.512333
+University of Bahrain - Sakhir 2,Isa Town PID Stop,"26.048766, 50.512333","26.173534, 50.547817",0,0,,,3,26.048766,50.512333
+University of Bahrain - Sakhir 2,16 December HWY-1 Isa Town,"26.048766, 50.512333","26.157364, 50.540535",0,0,,,3,26.048766,50.512333
+University of Bahrain - Sakhir 2,Sh. Abdulla School-1 Isa Town,"26.048766, 50.512333","26.160967, 50.54515",0,0,,,3,26.048766,50.512333
+University of Bahrain - Sakhir 2,Bahrain University Isa Town,"26.048766, 50.512333","26.163998, 50.546377",0,0,,,3,26.048766,50.512333
+University of Bahrain - Sakhir 2,Sh. Salman Highway-10 Jary AlSheikh Riffa,"26.048766, 50.512333","26.1392, 50.5389",0,0,,,3,26.048766,50.512333
+Educational Area - 2 Isa Town,Isa Town Terminal 2,"26.162067, 50.549217","26.17375, 50.54735",0,0,,,4,26.162067,50.549217
+Educational Area - 2 Isa Town,Sh. Salman Highway-11 Riffa,"26.162067, 50.549217","26.129433,  50.537533",0,0,,,4,26.162067,50.549217
+Educational Area - 2 Isa Town,Sh. Salman Highway-13,"26.162067, 50.549217","26.161899,  50.540713",0,0,,,4,26.162067,50.549217
+Educational Area - 2 Isa Town,University of Bahrain - Sakhir 2,"26.162067, 50.549217","26.048766, 50.512333",0,0,,,4,26.162067,50.549217
+Educational Area - 2 Isa Town,Educational Area - 2 Isa Town,"26.162067, 50.549217","26.162067, 50.549217",0,0,,,4,26.162067,50.549217
+Educational Area - 2 Isa Town,Bahrain University Main Gate/2 Zallaq,"26.162067, 50.549217","26.056805, 50.509186",0,0,,,4,26.162067,50.549217
+Educational Area - 2 Isa Town,Isa Town Gate-2 Isa Town,"26.162067, 50.549217","26.169636, 50.544911",0,0,,,4,26.162067,50.549217
+Educational Area - 2 Isa Town,Safreh Housing Riffa,"26.162067, 50.549217","26.106908, 50.539928",0,0,,,4,26.162067,50.549217
+Educational Area - 2 Isa Town,Bahrain University Main Gate 1,"26.162067, 50.549217","26.056796, 50.508591",0,0,,,4,26.162067,50.549217
+Educational Area - 2 Isa Town,Isa Town PID Stop,"26.162067, 50.549217","26.173534, 50.547817",0,0,,,4,26.162067,50.549217
+Educational Area - 2 Isa Town,16 December HWY-1 Isa Town,"26.162067, 50.549217","26.157364, 50.540535",0,0,,,4,26.162067,50.549217
+Educational Area - 2 Isa Town,Sh. Abdulla School-1 Isa Town,"26.162067, 50.549217","26.160967, 50.54515",0,0,,,4,26.162067,50.549217
+Educational Area - 2 Isa Town,Bahrain University Isa Town,"26.162067, 50.549217","26.163998, 50.546377",0,0,,,4,26.162067,50.549217
+Educational Area - 2 Isa Town,Sh. Salman Highway-10 Jary AlSheikh Riffa,"26.162067, 50.549217","26.1392, 50.5389",0,0,,,4,26.162067,50.549217
+Bahrain University Main Gate/2 Zallaq,Isa Town Terminal 2,"26.056805, 50.509186","26.17375, 50.54735",0,0,,,5,26.056805,50.509186
+Bahrain University Main Gate/2 Zallaq,Sh. Salman Highway-11 Riffa,"26.056805, 50.509186","26.129433,  50.537533",0,0,,,5,26.056805,50.509186
+Bahrain University Main Gate/2 Zallaq,Sh. Salman Highway-13,"26.056805, 50.509186","26.161899,  50.540713",0,0,,,5,26.056805,50.509186
+Bahrain University Main Gate/2 Zallaq,University of Bahrain - Sakhir 2,"26.056805, 50.509186","26.048766, 50.512333",0,0,,,5,26.056805,50.509186
+Bahrain University Main Gate/2 Zallaq,Educational Area - 2 Isa Town,"26.056805, 50.509186","26.162067, 50.549217",0,0,,,5,26.056805,50.509186
+Bahrain University Main Gate/2 Zallaq,Bahrain University Main Gate/2 Zallaq,"26.056805, 50.509186","26.056805, 50.509186",0,0,,,5,26.056805,50.509186
+Bahrain University Main Gate/2 Zallaq,Isa Town Gate-2 Isa Town,"26.056805, 50.509186","26.169636, 50.544911",0,0,,,5,26.056805,50.509186
+Bahrain University Main Gate/2 Zallaq,Safreh Housing Riffa,"26.056805, 50.509186","26.106908, 50.539928",0,0,,,5,26.056805,50.509186
+Bahrain University Main Gate/2 Zallaq,Bahrain University Main Gate 1,"26.056805, 50.509186","26.056796, 50.508591",0,0,,,5,26.056805,50.509186
+Bahrain University Main Gate/2 Zallaq,Isa Town PID Stop,"26.056805, 50.509186","26.173534, 50.547817",0,0,,,5,26.056805,50.509186
+Bahrain University Main Gate/2 Zallaq,16 December HWY-1 Isa Town,"26.056805, 50.509186","26.157364, 50.540535",0,0,,,5,26.056805,50.509186
+Bahrain University Main Gate/2 Zallaq,Sh. Abdulla School-1 Isa Town,"26.056805, 50.509186","26.160967, 50.54515",0,0,,,5,26.056805,50.509186
+Bahrain University Main Gate/2 Zallaq,Bahrain University Isa Town,"26.056805, 50.509186","26.163998, 50.546377",0,0,,,5,26.056805,50.509186
+Bahrain University Main Gate/2 Zallaq,Sh. Salman Highway-10 Jary AlSheikh Riffa,"26.056805, 50.509186","26.1392, 50.5389",0,0,,,5,26.056805,50.509186
+Isa Town Gate-2 Isa Town,Isa Town Terminal 2,"26.169636, 50.544911","26.17375, 50.54735",0,0,,,6,26.169636,50.544911
+Isa Town Gate-2 Isa Town,Sh. Salman Highway-11 Riffa,"26.169636, 50.544911","26.129433,  50.537533",0,0,,,6,26.169636,50.544911
+Isa Town Gate-2 Isa Town,Sh. Salman Highway-13,"26.169636, 50.544911","26.161899,  50.540713",0,0,,,6,26.169636,50.544911
+Isa Town Gate-2 Isa Town,University of Bahrain - Sakhir 2,"26.169636, 50.544911","26.048766, 50.512333",0,0,,,6,26.169636,50.544911
+Isa Town Gate-2 Isa Town,Educational Area - 2 Isa Town,"26.169636, 50.544911","26.162067, 50.549217",0,0,,,6,26.169636,50.544911
+Isa Town Gate-2 Isa Town,Bahrain University Main Gate/2 Zallaq,"26.169636, 50.544911","26.056805, 50.509186",0,0,,,6,26.169636,50.544911
+Isa Town Gate-2 Isa Town,Isa Town Gate-2 Isa Town,"26.169636, 50.544911","26.169636, 50.544911",0,0,,,6,26.169636,50.544911
+Isa Town Gate-2 Isa Town,Safreh Housing Riffa,"26.169636, 50.544911","26.106908, 50.539928",0,0,,,6,26.169636,50.544911
+Isa Town Gate-2 Isa Town,Bahrain University Main Gate 1,"26.169636, 50.544911","26.056796, 50.508591",0,0,,,6,26.169636,50.544911
+Isa Town Gate-2 Isa Town,Isa Town PID Stop,"26.169636, 50.544911","26.173534, 50.547817",0,0,,,6,26.169636,50.544911
+Isa Town Gate-2 Isa Town,16 December HWY-1 Isa Town,"26.169636, 50.544911","26.157364, 50.540535",0,0,,,6,26.169636,50.544911
+Isa Town Gate-2 Isa Town,Sh. Abdulla School-1 Isa Town,"26.169636, 50.544911","26.160967, 50.54515",0,0,,,6,26.169636,50.544911
+Isa Town Gate-2 Isa Town,Bahrain University Isa Town,"26.169636, 50.544911","26.163998, 50.546377",0,0,,,6,26.169636,50.544911
+Isa Town Gate-2 Isa Town,Sh. Salman Highway-10 Jary AlSheikh Riffa,"26.169636, 50.544911","26.1392, 50.5389",0,0,,,6,26.169636,50.544911
+Safreh Housing Riffa,Isa Town Terminal 2,"26.106908, 50.539928","26.17375, 50.54735",0,0,,,7,26.106908,50.539928
+Safreh Housing Riffa,Sh. Salman Highway-11 Riffa,"26.106908, 50.539928","26.129433,  50.537533",0,0,,,7,26.106908,50.539928
+Safreh Housing Riffa,Sh. Salman Highway-13,"26.106908, 50.539928","26.161899,  50.540713",0,0,,,7,26.106908,50.539928
+Safreh Housing Riffa,University of Bahrain - Sakhir 2,"26.106908, 50.539928","26.048766, 50.512333",0,0,,,7,26.106908,50.539928
+Safreh Housing Riffa,Educational Area - 2 Isa Town,"26.106908, 50.539928","26.162067, 50.549217",0,0,,,7,26.106908,50.539928
+Safreh Housing Riffa,Bahrain University Main Gate/2 Zallaq,"26.106908, 50.539928","26.056805, 50.509186",0,0,,,7,26.106908,50.539928
+Safreh Housing Riffa,Isa Town Gate-2 Isa Town,"26.106908, 50.539928","26.169636, 50.544911",0,0,,,7,26.106908,50.539928
+Safreh Housing Riffa,Safreh Housing Riffa,"26.106908, 50.539928","26.106908, 50.539928",0,0,,,7,26.106908,50.539928
+Safreh Housing Riffa,Bahrain University Main Gate 1,"26.106908, 50.539928","26.056796, 50.508591",0,0,,,7,26.106908,50.539928
+Safreh Housing Riffa,Isa Town PID Stop,"26.106908, 50.539928","26.173534, 50.547817",0,0,,,7,26.106908,50.539928
+Safreh Housing Riffa,16 December HWY-1 Isa Town,"26.106908, 50.539928","26.157364, 50.540535",0,0,,,7,26.106908,50.539928
+Safreh Housing Riffa,Sh. Abdulla School-1 Isa Town,"26.106908, 50.539928","26.160967, 50.54515",0,0,,,7,26.106908,50.539928
+Safreh Housing Riffa,Bahrain University Isa Town,"26.106908, 50.539928","26.163998, 50.546377",0,0,,,7,26.106908,50.539928
+Safreh Housing Riffa,Sh. Salman Highway-10 Jary AlSheikh Riffa,"26.106908, 50.539928","26.1392, 50.5389",0,0,,,7,26.106908,50.539928
+Bahrain University Main Gate 1,Isa Town Terminal 2,"26.056796, 50.508591","26.17375, 50.54735",0,0,,,8,26.056796,50.508591
+Bahrain University Main Gate 1,Sh. Salman Highway-11 Riffa,"26.056796, 50.508591","26.129433,  50.537533",0,0,,,8,26.056796,50.508591
+Bahrain University Main Gate 1,Sh. Salman Highway-13,"26.056796, 50.508591","26.161899,  50.540713",0,0,,,8,26.056796,50.508591
+Bahrain University Main Gate 1,University of Bahrain - Sakhir 2,"26.056796, 50.508591","26.048766, 50.512333",0,0,,,8,26.056796,50.508591
+Bahrain University Main Gate 1,Educational Area - 2 Isa Town,"26.056796, 50.508591","26.162067, 50.549217",0,0,,,8,26.056796,50.508591
+Bahrain University Main Gate 1,Bahrain University Main Gate/2 Zallaq,"26.056796, 50.508591","26.056805, 50.509186",0,0,,,8,26.056796,50.508591
+Bahrain University Main Gate 1,Isa Town Gate-2 Isa Town,"26.056796, 50.508591","26.169636, 50.544911",0,0,,,8,26.056796,50.508591
+Bahrain University Main Gate 1,Safreh Housing Riffa,"26.056796, 50.508591","26.106908, 50.539928",0,0,,,8,26.056796,50.508591
+Bahrain University Main Gate 1,Bahrain University Main Gate 1,"26.056796, 50.508591","26.056796, 50.508591",0,0,,,8,26.056796,50.508591
+Bahrain University Main Gate 1,Isa Town PID Stop,"26.056796, 50.508591","26.173534, 50.547817",0,0,,,8,26.056796,50.508591
+Bahrain University Main Gate 1,16 December HWY-1 Isa Town,"26.056796, 50.508591","26.157364, 50.540535",0,0,,,8,26.056796,50.508591
+Bahrain University Main Gate 1,Sh. Abdulla School-1 Isa Town,"26.056796, 50.508591","26.160967, 50.54515",0,0,,,8,26.056796,50.508591
+Bahrain University Main Gate 1,Bahrain University Isa Town,"26.056796, 50.508591","26.163998, 50.546377",0,0,,,8,26.056796,50.508591
+Bahrain University Main Gate 1,Sh. Salman Highway-10 Jary AlSheikh Riffa,"26.056796, 50.508591","26.1392, 50.5389",0,0,,,8,26.056796,50.508591
+Isa Town PID Stop,Isa Town Terminal 2,"26.173534, 50.547817","26.17375, 50.54735",0,0,,,9,26.173534,50.547817
+Isa Town PID Stop,Sh. Salman Highway-11 Riffa,"26.173534, 50.547817","26.129433,  50.537533",0,0,,,9,26.173534,50.547817
+Isa Town PID Stop,Sh. Salman Highway-13,"26.173534, 50.547817","26.161899,  50.540713",0,0,,,9,26.173534,50.547817
+Isa Town PID Stop,University of Bahrain - Sakhir 2,"26.173534, 50.547817","26.048766, 50.512333",0,0,,,9,26.173534,50.547817
+Isa Town PID Stop,Educational Area - 2 Isa Town,"26.173534, 50.547817","26.162067, 50.549217",0,0,,,9,26.173534,50.547817
+Isa Town PID Stop,Bahrain University Main Gate/2 Zallaq,"26.173534, 50.547817","26.056805, 50.509186",0,0,,,9,26.173534,50.547817
+Isa Town PID Stop,Isa Town Gate-2 Isa Town,"26.173534, 50.547817","26.169636, 50.544911",0,0,,,9,26.173534,50.547817
+Isa Town PID Stop,Safreh Housing Riffa,"26.173534, 50.547817","26.106908, 50.539928",0,0,,,9,26.173534,50.547817
+Isa Town PID Stop,Bahrain University Main Gate 1,"26.173534, 50.547817","26.056796, 50.508591",0,0,,,9,26.173534,50.547817
+Isa Town PID Stop,Isa Town PID Stop,"26.173534, 50.547817","26.173534, 50.547817",0,0,,,9,26.173534,50.547817
+Isa Town PID Stop,16 December HWY-1 Isa Town,"26.173534, 50.547817","26.157364, 50.540535",0,0,,,9,26.173534,50.547817
+Isa Town PID Stop,Sh. Abdulla School-1 Isa Town,"26.173534, 50.547817","26.160967, 50.54515",0,0,,,9,26.173534,50.547817
+Isa Town PID Stop,Bahrain University Isa Town,"26.173534, 50.547817","26.163998, 50.546377",0,0,,,9,26.173534,50.547817
+Isa Town PID Stop,Sh. Salman Highway-10 Jary AlSheikh Riffa,"26.173534, 50.547817","26.1392, 50.5389",0,0,,,9,26.173534,50.547817
+16 December HWY-1 Isa Town,Isa Town Terminal 2,"26.157364, 50.540535","26.17375, 50.54735",0,0,,,10,26.157364,50.540535
+16 December HWY-1 Isa Town,Sh. Salman Highway-11 Riffa,"26.157364, 50.540535","26.129433,  50.537533",0,0,,,10,26.157364,50.540535
+16 December HWY-1 Isa Town,Sh. Salman Highway-13,"26.157364, 50.540535","26.161899,  50.540713",0,0,,,10,26.157364,50.540535
+16 December HWY-1 Isa Town,University of Bahrain - Sakhir 2,"26.157364, 50.540535","26.048766, 50.512333",0,0,,,10,26.157364,50.540535
+16 December HWY-1 Isa Town,Educational Area - 2 Isa Town,"26.157364, 50.540535","26.162067, 50.549217",0,0,,,10,26.157364,50.540535
+16 December HWY-1 Isa Town,Bahrain University Main Gate/2 Zallaq,"26.157364, 50.540535","26.056805, 50.509186",0,0,,,10,26.157364,50.540535
+16 December HWY-1 Isa Town,Isa Town Gate-2 Isa Town,"26.157364, 50.540535","26.169636, 50.544911",0,0,,,10,26.157364,50.540535
+16 December HWY-1 Isa Town,Safreh Housing Riffa,"26.157364, 50.540535","26.106908, 50.539928",0,0,,,10,26.157364,50.540535
+16 December HWY-1 Isa Town,Bahrain University Main Gate 1,"26.157364, 50.540535","26.056796, 50.508591",0,0,,,10,26.157364,50.540535
+16 December HWY-1 Isa Town,Isa Town PID Stop,"26.157364, 50.540535","26.173534, 50.547817",0,0,,,10,26.157364,50.540535
+16 December HWY-1 Isa Town,16 December HWY-1 Isa Town,"26.157364, 50.540535","26.157364, 50.540535",0,0,,,10,26.157364,50.540535
+16 December HWY-1 Isa Town,Sh. Abdulla School-1 Isa Town,"26.157364, 50.540535","26.160967, 50.54515",0,0,,,10,26.157364,50.540535
+16 December HWY-1 Isa Town,Bahrain University Isa Town,"26.157364, 50.540535","26.163998, 50.546377",0,0,,,10,26.157364,50.540535
+16 December HWY-1 Isa Town,Sh. Salman Highway-10 Jary AlSheikh Riffa,"26.157364, 50.540535","26.1392, 50.5389",0,0,,,10,26.157364,50.540535
+Sh. Abdulla School-1 Isa Town,Isa Town Terminal 2,"26.160967, 50.54515","26.17375, 50.54735",0,0,,,11,26.160967,50.54515
+Sh. Abdulla School-1 Isa Town,Sh. Salman Highway-11 Riffa,"26.160967, 50.54515","26.129433,  50.537533",0,0,,,11,26.160967,50.54515
+Sh. Abdulla School-1 Isa Town,Sh. Salman Highway-13,"26.160967, 50.54515","26.161899,  50.540713",0,0,,,11,26.160967,50.54515
+Sh. Abdulla School-1 Isa Town,University of Bahrain - Sakhir 2,"26.160967, 50.54515","26.048766, 50.512333",0,0,,,11,26.160967,50.54515
+Sh. Abdulla School-1 Isa Town,Educational Area - 2 Isa Town,"26.160967, 50.54515","26.162067, 50.549217",0,0,,,11,26.160967,50.54515
+Sh. Abdulla School-1 Isa Town,Bahrain University Main Gate/2 Zallaq,"26.160967, 50.54515","26.056805, 50.509186",0,0,,,11,26.160967,50.54515
+Sh. Abdulla School-1 Isa Town,Isa Town Gate-2 Isa Town,"26.160967, 50.54515","26.169636, 50.544911",0,0,,,11,26.160967,50.54515
+Sh. Abdulla School-1 Isa Town,Safreh Housing Riffa,"26.160967, 50.54515","26.106908, 50.539928",0,0,,,11,26.160967,50.54515
+Sh. Abdulla School-1 Isa Town,Bahrain University Main Gate 1,"26.160967, 50.54515","26.056796, 50.508591",0,0,,,11,26.160967,50.54515
+Sh. Abdulla School-1 Isa Town,Isa Town PID Stop,"26.160967, 50.54515","26.173534, 50.547817",0,0,,,11,26.160967,50.54515
+Sh. Abdulla School-1 Isa Town,16 December HWY-1 Isa Town,"26.160967, 50.54515","26.157364, 50.540535",0,0,,,11,26.160967,50.54515
+Sh. Abdulla School-1 Isa Town,Sh. Abdulla School-1 Isa Town,"26.160967, 50.54515","26.160967, 50.54515",0,0,,,11,26.160967,50.54515
+Sh. Abdulla School-1 Isa Town,Bahrain University Isa Town,"26.160967, 50.54515","26.163998, 50.546377",0,0,,,11,26.160967,50.54515
+Sh. Abdulla School-1 Isa Town,Sh. Salman Highway-10 Jary AlSheikh Riffa,"26.160967, 50.54515","26.1392, 50.5389",0,0,,,11,26.160967,50.54515
+Bahrain University Isa Town,Isa Town Terminal 2,"26.163998, 50.546377","26.17375, 50.54735",0,0,,,12,26.163998,50.546377
+Bahrain University Isa Town,Sh. Salman Highway-11 Riffa,"26.163998, 50.546377","26.129433,  50.537533",0,0,,,12,26.163998,50.546377
+Bahrain University Isa Town,Sh. Salman Highway-13,"26.163998, 50.546377","26.161899,  50.540713",0,0,,,12,26.163998,50.546377
+Bahrain University Isa Town,University of Bahrain - Sakhir 2,"26.163998, 50.546377","26.048766, 50.512333",0,0,,,12,26.163998,50.546377
+Bahrain University Isa Town,Educational Area - 2 Isa Town,"26.163998, 50.546377","26.162067, 50.549217",0,0,,,12,26.163998,50.546377
+Bahrain University Isa Town,Bahrain University Main Gate/2 Zallaq,"26.163998, 50.546377","26.056805, 50.509186",0,0,,,12,26.163998,50.546377
+Bahrain University Isa Town,Isa Town Gate-2 Isa Town,"26.163998, 50.546377","26.169636, 50.544911",0,0,,,12,26.163998,50.546377
+Bahrain University Isa Town,Safreh Housing Riffa,"26.163998, 50.546377","26.106908, 50.539928",0,0,,,12,26.163998,50.546377
+Bahrain University Isa Town,Bahrain University Main Gate 1,"26.163998, 50.546377","26.056796, 50.508591",0,0,,,12,26.163998,50.546377
+Bahrain University Isa Town,Isa Town PID Stop,"26.163998, 50.546377","26.173534, 50.547817",0,0,,,12,26.163998,50.546377
+Bahrain University Isa Town,16 December HWY-1 Isa Town,"26.163998, 50.546377","26.157364, 50.540535",0,0,,,12,26.163998,50.546377
+Bahrain University Isa Town,Sh. Abdulla School-1 Isa Town,"26.163998, 50.546377","26.160967, 50.54515",0,0,,,12,26.163998,50.546377
+Bahrain University Isa Town,Bahrain University Isa Town,"26.163998, 50.546377","26.163998, 50.546377",0,0,,,12,26.163998,50.546377
+Bahrain University Isa Town,Sh. Salman Highway-10 Jary AlSheikh Riffa,"26.163998, 50.546377","26.1392, 50.5389",0,0,,,12,26.163998,50.546377
+Sh. Salman Highway-10 Jary AlSheikh Riffa,Isa Town Terminal 2,"26.1392, 50.5389","26.17375, 50.54735",0,0,,,13,26.1392,50.5389
+Sh. Salman Highway-10 Jary AlSheikh Riffa,Sh. Salman Highway-11 Riffa,"26.1392, 50.5389","26.129433,  50.537533",0,0,,,13,26.1392,50.5389
+Sh. Salman Highway-10 Jary AlSheikh Riffa,Sh. Salman Highway-13,"26.1392, 50.5389","26.161899,  50.540713",0,0,,,13,26.1392,50.5389
+Sh. Salman Highway-10 Jary AlSheikh Riffa,University of Bahrain - Sakhir 2,"26.1392, 50.5389","26.048766, 50.512333",0,0,,,13,26.1392,50.5389
+Sh. Salman Highway-10 Jary AlSheikh Riffa,Educational Area - 2 Isa Town,"26.1392, 50.5389","26.162067, 50.549217",0,0,,,13,26.1392,50.5389
+Sh. Salman Highway-10 Jary AlSheikh Riffa,Bahrain University Main Gate/2 Zallaq,"26.1392, 50.5389","26.056805, 50.509186",0,0,,,13,26.1392,50.5389
+Sh. Salman Highway-10 Jary AlSheikh Riffa,Isa Town Gate-2 Isa Town,"26.1392, 50.5389","26.169636, 50.544911",0,0,,,13,26.1392,50.5389
+Sh. Salman Highway-10 Jary AlSheikh Riffa,Safreh Housing Riffa,"26.1392, 50.5389","26.106908, 50.539928",0,0,,,13,26.1392,50.5389
+Sh. Salman Highway-10 Jary AlSheikh Riffa,Bahrain University Main Gate 1,"26.1392, 50.5389","26.056796, 50.508591",0,0,,,13,26.1392,50.5389
+Sh. Salman Highway-10 Jary AlSheikh Riffa,Isa Town PID Stop,"26.1392, 50.5389","26.173534, 50.547817",0,0,,,13,26.1392,50.5389
+Sh. Salman Highway-10 Jary AlSheikh Riffa,16 December HWY-1 Isa Town,"26.1392, 50.5389","26.157364, 50.540535",0,0,,,13,26.1392,50.5389
+Sh. Salman Highway-10 Jary AlSheikh Riffa,Sh. Abdulla School-1 Isa Town,"26.1392, 50.5389","26.160967, 50.54515",0,0,,,13,26.1392,50.5389
+Sh. Salman Highway-10 Jary AlSheikh Riffa,Bahrain University Isa Town,"26.1392, 50.5389","26.163998, 50.546377",0,0,,,13,26.1392,50.5389
+Sh. Salman Highway-10 Jary AlSheikh Riffa,Sh. Salman Highway-10 Jary AlSheikh Riffa,"26.1392, 50.5389","26.1392, 50.5389",0,0,,,13,26.1392,50.5389
