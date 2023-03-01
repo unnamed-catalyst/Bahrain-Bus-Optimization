@@ -14,3 +14,7 @@ I created two datasets from scratch, for two bus routes in Bahrain, namely U1 an
 - Proposed Bus Route Map for U1 Bus Route
 
 ![Proposed Bus Route Map](https://user-images.githubusercontent.com/59618797/222242120-e21f8d05-6a0e-41af-9d79-d3fe46694d8c.jpg)
+
+- Reduction in Time Taken using our proposed system
+
+![Reduced Time Results](https://user-images.githubusercontent.com/59618797/222244742-6963657c-0b59-4a56-a8a8-3d5cdf9647a1.jpg)
