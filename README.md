@@ -1,4 +1,4 @@
-# Bahrain Public Bus Optimization
+# Bahrain Public Bus Route Optimization
 An optimization system I made for the public bus system in the Kingdom of Bahrain as part of a hackathon I participated in. 
 
 ## Methodology
